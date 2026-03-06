@@ -75,7 +75,7 @@ Pipeline mapping natural language to realistic sign language motion sequences (T
 
 ## 🤝 Connect with Me
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-katoch)](https://www.linkedin.com/in/aayush-katoch-a47413175/)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/aayush-katoch-a47413175/)]
 [![GitHub][(https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aayushkatoch)](https://github.com/Aayush99000)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:katoch.aa@northeastern.edu)## Hi there 👋
 
