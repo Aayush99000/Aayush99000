@@ -77,8 +77,9 @@ Pipeline mapping natural language to realistic sign language motion sequences (T
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-katoch-a47413175/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush99000)
+[![TensorTonic](https://img.shields.io/badge/TensorTonic-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNVYxMmwtOSA1LTktNXoiLz48L3N2Zz4=&logoColor=white)](https://www.tensortonic.com/profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katoch.aa@northeastern.edu)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:katoch.aa@northeastern.edu)## Hi there 👋
 
 <!--
 **Aayush99000/Aayush99000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
