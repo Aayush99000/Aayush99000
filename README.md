@@ -42,10 +42,10 @@
 ### 🏥 [Low-Resource Medical Imaging via Transfer Learning](https://github.com/Aayush99000/Low-Medical-Imaging)
 Empirical study comparing scratch training, ImageNet pretraining, and medical-domain pretraining (MedSIGLIP) under extreme data scarcity (~300 samples). Achieved **92.02% accuracy & 0.9875 AUC** with DenseNet121 on pneumonia detection — a 14% lift over scratch training.
 
-### 💪 [RAG Fitness Assistant]([https://github.com/aayushkatoch](https://github.com/Aayush99000/RAG-Fitness-Assistant))
+### 💪 [RAG Fitness Assistant](https://github.com/Aayush99000/RAG-Fitness-Assistant)
 AI-powered fitness chatbot using **RAG + LangChain + ChromaDB + Llama 3 (Groq)**. Backed by 500+ exercises with smart filtering by muscle group, equipment & difficulty. Deployed with a Streamlit UI.
 
-### 🤟 [Text-to-Sign Motion Generation]([https://github.com/aayushkatoch](https://github.com/Aayush99000/text-to-motion-generation))
+### 🤟 [Text-to-Sign Motion Generation](https://github.com/Aayush99000/text-to-motion-generation)
 Pipeline mapping natural language to realistic sign language motion sequences (T × 668 skeletal features) using a 55-joint BVH skeleton at 30 FPS across ~12k training samples.
 
 ### 🛰️ Cloud & Image Captioning on Satellite Data *(@ ISRO SAC)*
