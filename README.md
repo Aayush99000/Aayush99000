@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [Low-Resource Medical Imaging via Transfer Learning]((https://github.com/Aayush99000/Low-Medical-Imaging))
+### 🏥 [Low-Resource Medical Imaging via Transfer Learning](https://github.com/Aayush99000/Low-Medical-Imaging)
 Empirical study comparing scratch training, ImageNet pretraining, and medical-domain pretraining (MedSIGLIP) under extreme data scarcity (~300 samples). Achieved **92.02% accuracy & 0.9875 AUC** with DenseNet121 on pneumonia detection — a 14% lift over scratch training.
 
 ### 💪 [RAG Fitness Assistant]([https://github.com/aayushkatoch](https://github.com/Aayush99000/RAG-Fitness-Assistant))
