@@ -33,7 +33,7 @@ from typing import List, Dict
 @dataclass
 class ResearcherConfig:
     name:       str  = "Aayush Katoch"
-    location:   str  = "Fremont, CA 🌉"
+    location:   str  = "San Jose, CA 🌉"
     education:  str  = "MS Data Science @ Northeastern University (Silicon Valley)"
     gpa_track:  str  = "Expected Dec 2027"
 
