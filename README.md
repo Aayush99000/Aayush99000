@@ -238,7 +238,7 @@ timeline
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <div align="center">
 
@@ -246,6 +246,12 @@ timeline
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush99000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd9e5"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush99000&theme=midnight-purple&hide_border=true&background=0d1117&ring=c792ea&fire=79c0ff&currStreakLabel=c792ea" />
+
+<br/>
+
+<a href="https://leetcode.com/u/aayush99000/">
+<img src="https://leetcard.jacoblin.cool/aayush99000?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
+</a>
 
 </div>
 
