@@ -11,6 +11,9 @@
 <a href="https://linkedin.com/in/aayush-katoch-a47413175"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Aayush99000"><img src="https://img.shields.io/badge/GitHub-c792ea?style=for-the-badge&logo=github&logoColor=black"/></a>
 <a href="mailto:katoch.aa@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/aayush99000/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.kaggle.com/aayush99000"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.tensortonic.com/profile"><img src="https://img.shields.io/badge/TensorTonic-c792ea?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Aayush99000&style=for-the-badge&color=c792ea" alt="Profile Views"/>
