@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:0d2137&height=220&section=header&text=Aayush%20Katoch&fontSize=65&fontColor=c792ea&animation=fadeIn&fontAlignY=35&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20Teaching%20Assistant%20%7C%20AI%20Researcher&descAlignY=58&descSize=17&descColor=79c0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:0d2137&height=220&section=header&text=Aayush%20Katoch&fontSize=65&fontColor=c792ea&animation=fadeIn&fontAlignY=35&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20Computer%20Vision%20%7C%20AI%20Researcher&descAlignY=58&descSize=17&descColor=79c0ff" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C792EA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Computer+Vision+%7C+NLP+%7C+Medical+Imaging+%7C+Satellite+AI;Published+Researcher+%7C+Ex-ISRO+%7C+Ex-DRDO+%7C+NEU+TA)](https://git.io/typing-svg)
