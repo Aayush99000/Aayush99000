@@ -95,7 +95,7 @@ model.say_hi()
 <tr>
 <td width="50%">
 
-### ✈️ TripCraft (NLP Course Project)
+### ✈️ NLPilot
 AI-powered travel itinerary generator
 - Slot filling for intent & entity extraction
 - RAG pipeline with **ChromaDB** + **Groq (Llama 3)**
