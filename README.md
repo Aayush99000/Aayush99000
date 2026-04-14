@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:0d2137&height=220&section=header&text=Aayush%20Katoch&fontSize=65&fontColor=c792ea&animation=fadeIn&fontAlignY=35&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20Data%20Science%20%7C%20AI%20Researcher&descAlignY=58&descSize=17&descColor=79c0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1565c0,100:87CEEB&height=220&section=header&text=Aayush%20Katoch&fontSize=65&fontColor=87CEEB&animation=fadeIn&fontAlignY=35&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20Data%20Science%20%7C%20AI%20Researcher&descAlignY=58&descSize=17&descColor=79c0ff" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C792EA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Computer+Vision+%7C+NLP+%7C+Medical+Imaging+%7C+Satellite+AI;Published+Researcher+%7C+Ex-ISRO+%7C+Ex-DRDO+%7C+NEU+TA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Computer+Vision+%7C+NLP+%7C+Medical+Imaging+%7C+Satellite+AI;Published+Researcher+%7C+Ex-ISRO+%7C+Ex-DRDO+%7C+NEU+TA)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
@@ -95,12 +95,12 @@ model.say_hi()
 <tr>
 <td width="50%">
 
-### ✈️ NLPilot
-AI-powered travel itinerary generator
-- Slot filling for intent & entity extraction
-- RAG pipeline with **ChromaDB** + **Groq (Llama 3)**
-- Streamlit frontend for interactive planning
-- End-to-end NLP architecture from scratch
+### 🛰️ [SAR-Guided Cloud Reconstruction](https://github.com/Aayush99000/SAR-Guided-Cloud-Reconstruction)
+Adaptive Mamba-Bridge for optical image restoration
+- **Vision Mamba** encoder for cloud-corrupted regions
+- **Optimal Transport Diffusion Bridge** for reconstruction
+- SAR-to-Optical guidance under heavy cloud cover
+- Multi-modal satellite fusion pipeline
 
 </td>
 <td width="50%">
@@ -245,10 +245,10 @@ timeline
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush99000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=79c0ff&text_color=cdd9e5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush99000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd9e5"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aayush99000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=79c0ff&text_color=cdd9e5"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aayush99000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd9e5"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush99000&theme=midnight-purple&hide_border=true&background=0d1117&ring=c792ea&fire=79c0ff&currStreakLabel=c792ea" />
+<img src="https://streak-stats.demolab.com/?user=Aayush99000&theme=midnight-purple&hide_border=true&background=0d1117&ring=c792ea&fire=79c0ff&currStreakLabel=c792ea" />
 
 <br/>
 
@@ -307,4 +307,4 @@ timeline
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:0d2137&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1565c0,100:87CEEB&height=120&section=footer" width="100%"/>
