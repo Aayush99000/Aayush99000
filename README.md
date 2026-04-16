@@ -252,11 +252,24 @@ timeline
 
 <br/>
 
-<a href="https://leetcode.com/u/aayush99000/">
-<img src="https://leetcard.jacoblin.cool/aayush99000?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
+<!-- Kaggle Profile Block -->
+<a href="https://kaggle.com/aayushkatoch/">
+  <img src="https://img.shields.io/badge/Kaggle-aayushkatoch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Competitions-Novice-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Notebooks-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Datasets-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://kaggle.com/aayushkatoch/">
+  <img src="https://img.shields.io/badge/View_Full_Kaggle_Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
 ---
 
