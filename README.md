@@ -241,7 +241,7 @@ timeline
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub & Kaggle Stats
 
 <div align="center">
 
