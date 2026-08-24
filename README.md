@@ -241,37 +241,6 @@ timeline
 
 ---
 
-## 📊 GitHub & Kaggle Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aayush99000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=79c0ff&text_color=cdd9e5"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aayush99000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd9e5"/>
-
-<img src="https://streak-stats.demolab.com/?user=Aayush99000&theme=midnight-purple&hide_border=true&background=0d1117&ring=c792ea&fire=79c0ff&currStreakLabel=c792ea" />
-
-<br/>
-
-<!-- Kaggle Profile Block -->
-<a href="https://kaggle.com/aayushkatoch/">
-  <img src="https://img.shields.io/badge/Kaggle-aayushkatoch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Competitions-Novice-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Notebooks-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Datasets-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://kaggle.com/aayushkatoch/">
-  <img src="https://img.shields.io/badge/View_Full_Kaggle_Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
----
 
 ## 📄 Publications
 
