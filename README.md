@@ -248,11 +248,15 @@ timeline
 
 | Year | Title | Venue |
 |:----:|:------|:------|
+| 2026 | **Army Vehicle Detection Using YOLO-v7, YOLO-v8, and YOLO-v9** | CRC Press |
 | 2024 | **Image Captioning of Satellite Images Using Transfer Learning and LSTM Blending** | Springer — AI Technologies for Information Systems (ISMS 2023), LNNS vol. 1136 |
 | 2024 | **Enhancing Cloud Detection Performance: A Comparative Study of CNN Models** | IEEE Students Conference on Engineering and Systems (SCES), Prayagraj |
 
 </div>
 
+---
+
+## 🏆 Impact at a Glance
 ---
 
 ## 🏆 Impact at a Glance
