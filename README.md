@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Computer+Vision+%7C+NLP+%7C+Medical+Imaging+%7C+Satellite+AI;Published+Researcher+%7C+Ex-ISRO+%7C+Ex-DRDO+%7C+NEU+TA)](https://git.io/typing-svg)
-
 <!-- Social Badges -->
 <p>
 <a href="https://linkedin.com/in/aayush-katoch-a47413175"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
