@@ -21,6 +21,13 @@
 </div>
 
 ---
+<div align="center">
+<img src="hero.svg" width="100%" alt="Aayush Katoch, ML Engineer, with an ASCII portrait"/>
+<br/><br/>
+<img src="contrib-heatmap.svg" width="100%" alt="GitHub contribution graph for the last year"/>
+</div>
+
+---
 
 ## 🧠 About Me
 
